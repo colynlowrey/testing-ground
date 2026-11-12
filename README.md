@@ -1,6 +1,6 @@
-# first-repo
+# testing-ground
 
-My first GitHub repository — a scratch space for code, notes, and experiments.
+My sandbox repository — a scratch space for code, notes, and experiments.
 
 ## What's in here
 
@@ -10,7 +10,7 @@ My first GitHub repository — a scratch space for code, notes, and experiments.
 ## Getting started
 
 ```bash
-git clone git@github.com:colynlowrey/first-repo.git
+git clone git@github.com:colynlowrey/testing-ground.git
 ```
 
 ## Notes
